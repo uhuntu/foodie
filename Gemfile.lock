@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    foodie (0.1.0)
+    foodie_hunt (0.1.0)
       activesupport
       thor
 
@@ -83,7 +83,7 @@ PLATFORMS
 DEPENDENCIES
   aruba
   cucumber
-  foodie!
+  foodie_hunt!
   rake (~> 13.0)
   rspec (~> 3.2)
 

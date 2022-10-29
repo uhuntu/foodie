@@ -3,7 +3,7 @@
 require_relative "lib/foodie/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "foodie"
+  spec.name = "foodie_hunt"
   spec.version = Foodie::VERSION
   spec.authors = ["Hunt Lin"]
   spec.email = ["hunt.lin@tes-tec.com"]
